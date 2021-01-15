@@ -27,4 +27,4 @@ I am currently a PhD candidate in Department of Electrical Engineering, City Uni
 
 ## TEACHING
 
-I have been a TA for EE4208/EE5808 Topics in Computer Graphics and EE3210 Signals and System.
+I have been a TA for EE4208 Computer Graphics for Engineers, EE5808 Topics in Computer Graphics and EE3210 Signals and System.
