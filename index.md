@@ -20,7 +20,9 @@ I am currently a PhD candidate in Department of Electrical Engineering, City Uni
   - My current research interests include evolutionary computation, algorithm selection and machine learning.
 - *Publications*
   - Liu, W., Yuen, S. Y., & Sung, C. W. (2020, December). Composing Algorithm Portfolio with Problem Set of Unknown Distribution. In 2020 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 814-821). IEEE.
+  
   -Zhang, X., Zhuang, L., Liu, W., Qi, H., & Zhang, X. (2019, October). Acoustic beamforming through adaptive diagonal loading. In 2019 IEEE Symposium on Product Compliance Engineering-Asia (ISPCE-CN) (pp. 1-4). IEEE.
+  
   -Zhang, X., Qi, H., Liu, W., Zhang, X., & Lu, X. (2019, October). Performance Study of Eight-Figure Coils in Wireless Power Transfer System. In 2019 IEEE Symposium on Product Compliance Engineering-Asia (ISPCE-CN) (pp. 1-4). IEEE.
 
 ## TEACHING
