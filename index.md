@@ -1,4 +1,3 @@
-# Wenwen Liu's Homepage
 
 ![Image of WwL](./wwl.jpeg )
 - *Wenwen Liu* 
